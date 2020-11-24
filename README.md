@@ -1,3 +1,3 @@
 # practiceGit_kobayashikento
 
-GitHub練習
+VSCodeで練習
