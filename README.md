@@ -1,3 +1,3 @@
 # practiceGit_kobayashikento
 
-GitHub練習
+ブラウザーで練習
